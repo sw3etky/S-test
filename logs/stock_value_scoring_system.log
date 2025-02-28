@@ -1,0 +1,24 @@
+2024-11-12 17:26:09,174 - config.logging_config - INFO - 日志配置加载成功，文件和控制台输出均已配置。
+2024-11-12 19:07:43,215 - config.logging_config - INFO - 日志配置加载成功，文件和控制台输出均已配置。
+2024-11-12 19:08:36,190 - config.logging_config - INFO - 日志配置加载成功，文件和控制台输出均已配置。
+2024-11-12 19:10:28,381 - config.logging_config - INFO - 日志配置加载成功，文件和控制台输出均已配置。
+2024-11-12 19:54:31,010 - config.logging_config - INFO - 日志配置加载成功，文件和控制台输出均已配置。
+2024-11-12 19:54:31,010 - config.logging_config - INFO - Starting fetch_stock_list function.
+2024-11-12 19:54:31,010 - config.logging_config - INFO - Cache file age: 2668.289293050766 seconds.
+2024-11-12 19:54:31,010 - config.logging_config - INFO - Loading stock list from cache.
+2024-11-12 19:58:09,094 - config.logging_config - INFO - 日志配置加载成功，文件和控制台输出均已配置。
+2024-11-12 19:58:09,094 - config.logging_config - INFO - Starting fetch_stock_list function.
+2024-11-12 19:58:09,094 - config.logging_config - INFO - Cache expired or not found, fetching new data.
+2024-11-12 19:58:16,951 - config.logging_config - INFO - Data fetched from akshare.
+2024-11-12 19:58:16,960 - config.logging_config - INFO - Stock list saved to cache at data/cache/stock_list.csv.
+2024-11-12 19:58:16,960 - config.logging_config - INFO - Stock data retrieved successfully.
+2024-11-12 20:07:38,475 - config.logging_config - INFO - 日志配置加载成功，文件和控制台输出均已配置。
+2024-11-12 20:12:48,389 - config.logging_config - INFO - 日志配置加载成功，文件和控制台输出均已配置。
+2024-11-14 15:26:45,311 - __main__ - INFO - 日志配置加载成功，文件和控制台输出均已配置。
+2024-11-14 15:34:27,373 - config.logging_config - INFO - 日志配置加载成功，文件和控制台输出均已配置。
+2024-11-14 15:34:27,373 - config.logging_config - INFO - Starting fetch_stock_list function.
+2024-11-14 15:34:27,374 - config.logging_config - INFO - Cache file age: 156970.41506242752 seconds.
+2024-11-14 15:34:27,374 - config.logging_config - INFO - Cache expired or not found, fetching new data.
+2024-11-14 15:34:33,893 - config.logging_config - INFO - Data fetched from akshare.
+2024-11-14 15:34:33,899 - config.logging_config - INFO - 成功获取所有A股股票代码和名称，并保存到缓存。
+2024-11-14 15:34:33,899 - config.logging_config - INFO - Stock data retrieved successfully.
