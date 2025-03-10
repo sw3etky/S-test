@@ -4,6 +4,7 @@ import sys
 import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from src.data_fetcher.stock_fetch_list import stock_fetch_list
 from utils import fetch_data  # 假设你已经有一个获取股票数据的工具
 
 # 获取项目根目录并添加到 sys.path 中
